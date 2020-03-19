@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://lmm214.github.io/onblog/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Mar 2020 13:06:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://lmm214.github.io/onblog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://lmm214.github.io/onblog/post/hello/</link>
+      <pubDate>Thu, 19 Mar 2020 13:06:34 +0800</pubDate>
+      
+      <guid>https://lmm214.github.io/onblog/post/hello/</guid>
+      <description>123</description>
+    </item>
+    
+  </channel>
+</rss>
