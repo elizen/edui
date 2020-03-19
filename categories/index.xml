@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 无博不客</title>
-    <link>https://lmm214.github.io/noblog/categories/</link>
-    <description>Recent content in Categories on 无博不客</description>
+    <title>Categories on Edui.fun |  让教学有点意思</title>
+    <link>https://edui.fun/categories/</link>
+    <description>Recent content in Categories on Edui.fun |  让教学有点意思</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
     
-	<atom:link href="https://lmm214.github.io/noblog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edui.fun/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

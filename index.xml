@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>无博不客</title>
-    <link>https://lmm214.github.io/noblog/</link>
-    <description>Recent content on 无博不客</description>
+    <title>Edui.fun |  让教学有点意思</title>
+    <link>https://edui.fun/</link>
+    <description>Recent content on Edui.fun |  让教学有点意思</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
     <lastBuildDate>Thu, 19 Mar 2020 12:41:32 +0800</lastBuildDate>
     
-	<atom:link href="https://lmm214.github.io/noblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edui.fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://lmm214.github.io/noblog/about/</link>
+      <link>https://edui.fun/about/</link>
       <pubDate>Thu, 19 Mar 2020 12:41:32 +0800</pubDate>
       
-      <guid>https://lmm214.github.io/noblog/about/</guid>
+      <guid>https://edui.fun/about/</guid>
       <description>123
 123</description>
     </item>
